@@ -130,7 +130,7 @@ At least one installed
 Step-by-Step Installation
 Step 1: Clone the Repository
 Open your terminal and run:
-git clone https://github.com/msitarzewski/agency-agents.git
+git clonehttps://github.com/dsp411/Specialized-Agents-For-Claude-Code.git
 cd agency-agents
 
 This downloads all 209 agent markdown files and the install scripts to your machine.
@@ -310,24 +310,6 @@ Evidence-based certification, quality gates, production readiness checks
 Repo Folder Structure
 Here’s what the cloned repo looks like on your machine:
 
-agency-agents/
-├── academic/            ← Anthropologist, Historian, Psychologist, etc.
-├── design/              ← UI Designer, UX Researcher, Brand Guardian, etc.
-├── engineering/          ← Frontend Dev, Backend Architect, AI Engineer, etc.
-├── finance/             ← Bookkeeper, Financial Analyst, Tax Strategist, etc.
-├── game-development/    ← Unity, Unreal, Godot, Blender, Roblox agents
-├── integrations/        ← Tool-specific generated files (Cursor, Aider, etc.)
-├── marketing/           ← Growth Hacker, SEO, Content Creator, etc.
-├── paid-media/          ← PPC Strategist, Search Query Analyst, etc.
-├── product/             ← Sprint Prioritizer, Trend Researcher, PM, etc.
-├── project-management/  ← Studio Producer, Project Shepherd, etc.
-├── sales/               ← Outbound Strategist, Deal Strategist, etc.
-├── scripts/             ← install.sh, convert.sh (the magic)
-├── security/            ← Security Architect, Pen Tester, etc.
-├── spatial-computing/   ← XR, visionOS, WebXR agents
-├── specialized/         ← MCP Builder, Workflow Architect, etc.
-├── support/             ← Analytics Reporter, Finance Tracker, etc.
-└── testing/             ← Reality Checker, API Tester, etc.
 Real-World Workflow Examples
 Workflow 1: Code Review Pipeline
 Use three agents together for a production-ready review:
@@ -393,7 +375,7 @@ Save this page. These are the commands you’ll use most:
 What You Want to Do
 Command
 Clone the repo
-git clone https://github.com/msitarzewski/agency-agents.git
+git clonehttps://github.com/dsp411/Specialized-Agents-For-Claude-Code.git
 Install for Claude Code
 ./scripts/install.sh --tool claude-code
 Install for Cursor
