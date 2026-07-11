@@ -15,16 +15,20 @@ Here’s every department and the number of agents inside each one:
 Department
 Agents
 Key Roles
+
 1
 Engineering
+
 30
 Frontend Dev, Backend Architect, AI Engineer, DevOps, SRE, Prompt Engineer, Data Engineer
 2
 Design
+
 9
 UI Designer, UX Researcher, Brand Guardian, Whimsy Injector, Image Prompt Engineer
 3
 Marketing
+
 35
 Growth Hacker, SEO, Content Creator, TikTok Strategist, Instagram Curator, LinkedIn Creator
 4
