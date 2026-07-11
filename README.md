@@ -21,64 +21,91 @@ Engineering
 
 30
 Frontend Dev, Backend Architect, AI Engineer, DevOps, SRE, Prompt Engineer, Data Engineer
+
 2
 Design
 
 9
 UI Designer, UX Researcher, Brand Guardian, Whimsy Injector, Image Prompt Engineer
+
 3
 Marketing
 
 35
 Growth Hacker, SEO, Content Creator, TikTok Strategist, Instagram Curator, LinkedIn Creator
+
 4
 Sales
+
 10
 Outbound Strategist, Discovery Coach, Deal Strategist, Sales Engineer, Pipeline Analyst
+
 5
 Paid Media
+
 7
 PPC Strategist, Search Query Analyst, Paid Media Auditor, Tracking Specialist, Creative Strategist
+
 6
 Product
+
 5
 Sprint Prioritizer, Trend Researcher, Feedback Synthesizer, Behavioral Nudge Engine, PM
+
 7
 Project Mgmt
+
 7
 Studio Producer, Project Shepherd, Experiment Tracker, Meeting Notes Specialist
+
 8
 Testing
+
 8
 Evidence Collector, Reality Checker, Performance Benchmarker, API Tester, Accessibility Auditor
+
 9
 Security
+
 10
 Security Architect, AppSec Engineer, Penetration Tester, Incident Responder, Compliance Auditor
+
 10
 Support
+
 6
 Support Responder, Analytics Reporter, Finance Tracker, Infrastructure Maintainer
+
 11
 Spatial Computing
+
 6
 XR Interface Architect, visionOS Engineer, WebXR Developer, macOS Metal Engineer
+
 12
 Specialized
+
 47
 MCP Builder, Workflow Architect, Salesforce Architect, Business Strategist, Customer Service
+
 13
 Finance
+
 5
 Bookkeeper, Financial Analyst, FP&A Analyst, Investment Researcher, Tax Strategist
+
 14
 Game Dev
+
 18
 Game Designer, Level Designer, Unity/Unreal/Godot/Blender/Roblox specialists
+
 15
 Academic
+
 5
 Anthropologist, Geographer, Historian, Narratologist, Psychologist
+
 
 
 ⚠️ Total: 209 agents, all free, all open source under the MIT license.
